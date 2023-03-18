@@ -1,12 +1,20 @@
-# Family Tree Visualization
-A d3 visualization of my paternal ancestral family tree.
+# Визуализация на семейно дърво
+Визуализация на семейство Старирадеви чрез D3
 
-## Visualization
-<img src="images/image1.png" width="90%" height="90%">
-<img src="images/image2.png" width="90%" height="90%">
+От 1780 г.
+І-во – Стари Рад – 1
+ІІ-ро – 2 потомци
+ІІІ-то – 3 потомци
+ІV-то – 14 потомци
+V-то – 44 потомци
+VІ-то – 73 потомци
+VІІ-мо – 94 потомци
+VІІІ-мо – 18 потомци
+IV-то – 18 потомци
+Всичко 256 потомци
 
 
-## Steps to run
+## За да пуснете визуализацията локално
 In the directory of the project, start server:
 
 ```python3 -m http.server 3000 ```
